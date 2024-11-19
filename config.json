@@ -4,7 +4,7 @@
   "active": false,
   "status": {
     "concept_exercises": false,
-    "test_runner": false,
+    "test_runner": true,
     "representer": false,
     "analyzer": false
   },
@@ -13,6 +13,9 @@
   "online_editor": {
     "indent_style": "space",
     "indent_size": 2
+  },
+  "test_runner": {
+    "average_run_time": 2
   },
   "files": {
     "solution": [
@@ -271,6 +274,14 @@
         "difficulty": 2
       },
       {
+        "slug": "space-age",
+        "name": "Space Age",
+        "uuid": "79decac4-6fd3-45cb-b53f-aa6c6044d032",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "sum-of-multiples",
         "name": "Sum of Multiples",
         "uuid": "e13dce79-babc-43bf-94b0-81c6fb7f7f70",
@@ -335,6 +346,14 @@
         "difficulty": 4
       },
       {
+        "slug": "protein-translation",
+        "name": "Protein Translation",
+        "uuid": "33bca041-4f26-4d6a-ac4c-bcaf342d2472",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
         "slug": "high-scores",
         "name": "High Scores",
         "uuid": "803f7779-8a3f-4c4f-88d1-edf40f76f53e",
@@ -346,6 +365,14 @@
         "slug": "luhn",
         "name": "Luhn",
         "uuid": "05540841-7c01-4c02-a9de-258f3554b815",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
+        "slug": "crypto-square",
+        "name": "Crypto Square",
+        "uuid": "f5f0f47a-f777-499e-a1fd-61bbff94cceb",
         "practices": [],
         "prerequisites": [],
         "difficulty": 3
